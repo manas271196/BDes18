@@ -708,3 +708,9 @@ font-size: 120%;
     padding-top: 15px;
     line-height: 25px;
 }*/
+.profileImage > div {
+    height: 120px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}

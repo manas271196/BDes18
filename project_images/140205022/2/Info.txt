@@ -1,0 +1,6 @@
+Brief : In this project we thoroughly studied about the security workers in Educational Institutions and conceptualized 
+on how they can be benifitted from the rich intellect present in the institutions(the students) and through technology. A 
+case study of IIT Guwahati was done for this project which employs around 400 security workers at different levels.  
+
+Guide : Prof. Pratul Kalita | Department Of Design, IIT Guwahati
+Duration : 4 Months | Jan 2016 - Apr 2016
