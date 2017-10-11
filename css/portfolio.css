@@ -713,4 +713,5 @@ font-size: 120%;
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
+  clip-path: circle(50px at center);
 }
