@@ -1,3 +1,0 @@
-embed link :
-
-<iframe src="https://player.vimeo.com/video/237226452?autoplay=1&loop=1&title=0&byline=0&portrait=0" width="1400" height="930" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
