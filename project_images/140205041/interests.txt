@@ -1,4 +1,4 @@
-Interests:
+interests:
 User centered design
-Human computerinteraction
-User research
+Human computer interaction
+User reasearch
