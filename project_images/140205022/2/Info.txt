@@ -1,6 +1,6 @@
-Brief : This project aims to help offline shoppers(those shopping at physical locations) to split offers such as buy 1 get 1 
-free, with fellow shoppers shopping at same/nearby location by matching them based on deals which both wish to split.
-This will also enhance the communication among the shoppers who are in search of someone to split the deal with. 
+Brief : In this project we thoroughly studied about the security workers in Educational Institutions and conceptualized 
+on how they can be benifitted from the rich intellect present in the institutions(the students) and through technology. A 
+case study of IIT Guwahati was done for this project which employs around 400 security workers at different levels.  
 
-Guide : Prof. Ravi Mokashi | Department of Design, IIT Guwahati
-Duration : 2 months | October 2016 - November 2016
+Guide : Prof. Pratul Kalita | Department Of Design, IIT Guwahati
+Duration : 4 Months | Jan 2016 - Apr 2016
